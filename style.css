@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+div {
+    border: solid 1px green;
+    width: 67%;
+    padding: 20px;
+    margin: 10px auto;
+    background-color: lightgray;
+}
+
+
+p {
+font-size: 36px;
+color: red;
+}
